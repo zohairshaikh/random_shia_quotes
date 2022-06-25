@@ -20,7 +20,7 @@ Module.register("random_quotes",{
 		fadeSpeed: 4,			// How fast (in SECONDS) to fade out and back in when changing quotes
 		category: 'random',		// Category to use
 		quotes: {
-                  "mohammad": [
+                  mohammad: [
                     "Your God loves the youth who do not follow their carnal desires. ~ Prophet Mohammad (s.a.w)",
                     "Your fate has been predestined. ~ Prophet Mohammad (s.a.w)",
                     "Your excessive love towards something blinds your eyes and deafens your ears. ~ Prophet Mohammad (s.a.w)",
@@ -2028,7 +2028,7 @@ Module.register("random_quotes",{
                     "O Ali, no loneliness drearier than pride. ~ Prophet Mohammad (s.a.w)",
                     "O Ali, o fortune better than the intellect. ~ Prophet Mohammad (s.a.w)"
                   ],
-                  "zehra": [
+                  zehra: [
                     "Silence of Fatima (S.A).silence is gold where speech is silver. When the holy messenger (S.A) asked his daughter Fatima (S.A) about marriage with Ali (A.S) she was silent. So her father (S.A) declared Allah o Akbar! her silence is her approval , as witnessed by her countenance. An angel informed Mohammad (S.A) that Fatima (S.A) has been married in heaven to Ali (A.S) and God has destined their marriage to be celebrated on earth.Note: a) God has said If Fatima was not in My Mind I would not have created both of you. (Mohammad &AliA.S). Source : Sayings of Hadrat Fatima Zahra (S.A.) ~ Fatima Zehra (s.a)",
                     "Once the holy Messenger (S.A) saw Fatima(S.A) wearing a very simple dress and rotating a stone grinder with one hand and feeding milk to her baby held in her lap. Beholding this, tears rolled down his eyes and he said,My beloved daughter! by tasting hardships and bitterness in this world you will procure sweetness of blessings in the Hereafter. Fatima (S.A) said: O the Messenger (S.A) of God! I thank God for His blessings Then this Aayat God will grant you so much in the Hereafter that you will be gratified.( Az Zoha93: A 5) was sent down to him.. Source : Sayings of Hadrat Fatima Zahra (S.A.) ~ Fatima Zehra (s.a)",
                     "Fatima (S.A) told Ali (A.S):O father of Hasan! God created my light and it glorified God, then God placed it in one of the trees in Heaven .When my father Mohammad (S.A) entered Heaven, he ate fresh fruit from that tree by the will of God. Thereby my light was conveyed into his body. Then my light was transferred into the womb of my mother (KhadijaA.S). I am that light. Source : Sayings of Hadrat Fatima Zahra (S.A.) ~ Fatima Zehra (s.a)",
@@ -2067,7 +2067,7 @@ Module.register("random_quotes",{
                     "God has prohibited Polytheism, so that all people pray to Him alone with sincere love. Fatima AlZahra(as) Source : Sayings of Hadrat Fatima Zahra (S.A.) ~ Fatima Zehra (s.a)",
                     "Faith is a blessing from God to purify you from Polytheism. Fatima AlZahra(as) Source : Sayings of Hadrat Fatima Zahra (S.A.) ~ Fatima Zehra (s.a)"
                   ],
-                  "askari": [
+                  askari: [
                     "It is so ugly for a believer to follow a passion that causes him humiliation.- Imam Al-Askari Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Askari (a.s)",
                     "God's favors encompass every misfortune.- Imam Al-Askari Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Askari (a.s)",
                     "Those who advice their friend secretly are respecting them, and those who advice them openly are humiliating them.- Imam Al-Askari Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Askari (a.s)",
@@ -2122,7 +2122,7 @@ Module.register("random_quotes",{
                     "Woe and away with them who disregard the acts of obedience to God and rejected the admonitions of God's disciples.- Imam Al-Askari Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Askari (a.s)",
                     "Beware of falling short of the duties of God lest, you will be with the losing ones- Imam Al-Askari Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Askari (a.s)"
                   ],
-                  "baqar": [
+                  baqar: [
                     "Receive people with the best things with which you like to be received.- Imam Al-Baqir Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Baqar (a.s)",
                     "Had those who do not settle others' needs known the reality of their deed, they would have settled every need.- Imam Al-Baqir Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Baqar (a.s)",
                     "Had the beggars realized the reality of beggary, they would not have begged for anything.- Imam Al-Baqir Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Baqar (a.s)",
@@ -2299,7 +2299,7 @@ Module.register("random_quotes",{
                     "You should not cheat him who cheated you;- Imam Al-Baqir Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Baqar (a.s)",
                     "You should not oppress him who oppressed you.- Imam Al-Baqir Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Baqar (a.s)"
                   ],
-                  "hadi": [
+                  hadi: [
                     "This world is like a market in which some profited and others lost.- Imam Al-Hadi Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hadi (a.s)",
                     "Do not feel secure from those who disgraced their personalities.- Imam Al-Hadi Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hadi (a.s)",
                     "You should present thorough obedience to those who present for you their thorough love and advice.- Imam Al-Hadi Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hadi (a.s)",
@@ -2325,7 +2325,7 @@ Module.register("random_quotes",{
                     "There are definite places in which God likes the servants to supplicate to Him. One of these places is the tomb of AlHussein- Imam Al-Hadi Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hadi (a.s)",
                     "When God intends goodness for somebody, He makes him accept the blame of the friends.- Imam Al-Hadi Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hadi (a.s)"
                   ],
-                  "hasan": [
+                  hasan: [
                     "Every anticipated (one) asks for respite and every respited busies himself with negligence.- Imam AL-Hassan Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hasan (a.s)",
                     "Knowledge invalidates the excuses of the learners.- Imam AL-Hassan Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hasan (a.s)",
                     "Between the admonition and you lies the screen of haughtiness.- Imam AL-Hassan Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hasan (a.s)",
@@ -2393,7 +2393,7 @@ Module.register("random_quotes",{
                     "Clemency is the suppression of one's anger and self-possession.- Imam AL-Hassan Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hasan (a.s)",
                     "Asceticism is the desire for God-fearing and the abstinence from the worldly pleasures.- Imam AL-Hassan Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Hasan (a.s)"
                   ],
-                  "husain": [
+                  husain: [
                     "The true stingy is that who refrains from greeting.- Imam AL-HUSSEIN Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Husain (a.s)",
                     "The hypocrite makes mistakes and apologizes everyday.- Imam AL-HUSSEIN Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Husain (a.s)",
                     "Beware of things for which you apologize. The true believer should not make mistakes and should not apologize.- Imam AL-HUSSEIN Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Husain (a.s)",
@@ -2412,7 +2412,7 @@ Module.register("random_quotes",{
                     "Beware of being one of those who concern for people's sins and feel safety from the punishment for their own sins.- Imam AL-HUSSEIN Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Husain (a.s)",
                     "I command you to fear God because He has guaranteed for those who fear him to take them from what they detest to what they like- ALHUSSEIN Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Husain (a.s)"
                   ],
-                  "jawad": [
+                  jawad: [
                     "A believer is in need of successfulness from God, a self-preaching, and accession to the advisers.- Imam Al-Jawad Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Jawad (a.s)",
                     "To show a matter before preparing for it properly is spoiling it.- Imam Al-Jawad Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Jawad (a.s)",
                     "Insistence on sins is security against God's unexpected retribution.- Imam Al-Jawad Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Jawad (a.s)",
@@ -2428,7 +2428,7 @@ Module.register("random_quotes",{
                     "Know that you cannot be out of God's sight.Consider how you should behave, then.- Imam Al-Jawad Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Jawad (a.s)",
                     "Put your head on steadfastness, embrace poverty, reject the lusts,oppose your passions.- Imam Al-Jawad Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Jawad (a.s)"
                   ],
-                  "kadhem": [
+                  kadhem: [
                     "Only the sufferers of injustice can realize its intensity.- Imam Al-Kadhim Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Kadhem (a.s)",
                     "For the steadfast, the misfortune is one, while it is two for the impatient.- Imam Al-Kadhim Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Kadhem (a.s)",
                     "The astonishment of the ignorant at the intelligent is greater than the astonishment of the intelligent at the ignorant.- Imam Al-Kadhim Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Kadhem (a.s)",
@@ -2560,7 +2560,7 @@ Module.register("random_quotes",{
                     "Everything has its pack animal, and modesty is the pack animal of the intelligent.- Imam Al-Kadhim Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Kadhem (a.s)",
                     "The evidence of being intelligent is pondering (over things) and the evidence on pondering is silence.- Imam Al-Kadhim Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Kadhem (a.s)"
                   ],
-                  "mahdi": [
+                  mahdi: [
                     "No manifestation but after Allahs permission, and that will be after the passing of a long term, the hardening of the hearts and the filling of earth with tyranny. - Imam Al Mahdi Source : Al-Ihtijaj, by al-Tabrasy  ~ Imam AL-Mahdi (a.j.t.f)",
                     "So fear God and submit to us, refer the matter to us, because we are the ones who execute Allahs commands as we were the ones who received them, do not try to uncover what was concealed form you and make your intention to love us according to the clear way. - Imam Al Mahdi Source : Bihar al-Anwar ~ Imam AL-Mahdi (a.j.t.f)",
                     "And as for the occurrence of the manifestation, it is up to Allah, and those who appoint a moment lie. - Imam Al Mahdi Source : Bihar al-Anwar ~ Imam AL-Mahdi (a.j.t.f)",
@@ -2600,7 +2600,7 @@ Module.register("random_quotes",{
                     "Indeed, right is with us and in us, and nobody else say that but a liar and an impostor. - Imam Al Mahdi Source : Bihar al-Anwar ~ Imam AL-Mahdi (a.j.t.f)",
                     "I am a remainder from Adam, a relic of Noah, a choice from Abraham and an elite of Mohammad (PBUT). - Imam Al Mahdi Source : Bihar al-Anwar ~ Imam AL-Mahdi (a.j.t.f)"
                   ],
-                  "reza": [
+                  reza: [
                     "The liars do not have personality.- Imam Ar-Reza Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Reza (a.s)",
                     "The enslaved cannot be loyal.- Imam Ar-Reza Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Reza (a.s)",
                     "The envious cannot enjoy pleasure.- Imam Ar-Reza Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Reza (a.s)",
@@ -2640,7 +2640,7 @@ Module.register("random_quotes",{
                     "It is obligatory upon the wealthy to improve the standard of living of his family.- Imam Ar-Reza Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Reza (a.s)",
                     "It is obligatory upon the wealthy to improve the standard of living of his family.- Imam Ar-Reza Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Reza (a.s)"
                   ],
-                  "sadeq": [
+                  sadeq: [
                     "If the world advances to some people,it will garb them with the others'charms.If it leaves some people,it usurps their own charms-AS-Sadiq Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sadeq (a.s)",
                     "Forgiveness is the tax of success.- Imam AS-Sadiq Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sadeq (a.s)",
                     "Diseases are the tax of bodies.- Imam AS-Sadiq Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sadeq (a.s)",
@@ -2966,7 +2966,7 @@ Module.register("random_quotes",{
                     "It is obligatory upon every Muslim, who claims of knowing us, to maintain judgment with his deeds everyday.- Imam AS-Sadiq Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sadeq (a.s)",
                     "Oh,for hearts that are stuffed with illumination. For them, this world is as same as a poisonous snake and an outlandish enemy~Imam ASadiq Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sadeq (a.s)"
                   ],
-                  "sajjad": [
+                  sajjad: [
                     "All praise be to Him Who has regarded the acknowledgement of His favors as praise.- Imam AS-SEJJAD Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sajjad (a.s)",
                     "abstinence from harming people is a part of the perfection of mind- Imam AS-SEJJAD Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sajjad (a.s)",
                     "guiding the seeker of counsel is a fulfillment of the rights of graces- Imam AS-SEJJAD Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sajjad (a.s)",
@@ -3066,7 +3066,7 @@ Module.register("random_quotes",{
                     "Woe is you, son of Adam. You are negligent but not neglected.- Imam AS-SEJJAD Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sajjad (a.s)",
                     "O people, fear God and know that you will inevitably return to Him.- Imam AS-SEJJAD Source : The Masterpiece of mind(Tuhaf Aluqul) ~ Imam AL-Sajjad (a.s)"
                   ],
-                  "ali": [
+                  ali: [
                     "Cognizance is the successful attainment of [purification and] the sacred ~ Imam Ali (a.s)",
                     "Cognizance is the evidence of excellence (or nobility) ~ Imam Ali (a.s)",
                     "The loss of eyesight is better than the blinding of insight ~ Imam Ali (a.s)",
@@ -5444,7 +5444,7 @@ Module.register("random_quotes",{
                     "One who sows in himself the love of different types of food, reaps the fruit of a variety of maladies ~ Imam Ali (a.s)",
                     "One who does not bear the bitterness of the remedy, his pain persists ~ Imam Ali (a.s)"
                   ]
-                },
+        },
 	},
 
 
